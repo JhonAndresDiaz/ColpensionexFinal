@@ -21,6 +21,6 @@ public class Validator {
                 return resultado;
             }
         }
-        return new ValidationResult(true, "Aprobado para transferencia");
+        return new ValidationResult(true, "");
     }
 }
